@@ -1,1 +1,1 @@
-# git_practice
+# Paragon z warzywniaka
